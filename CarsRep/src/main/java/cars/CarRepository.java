@@ -1,3 +1,7 @@
+package cars;
+
+import cars.Car;
+
 import java.util.List;
 import java.util.Map;
 

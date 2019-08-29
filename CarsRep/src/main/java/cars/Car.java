@@ -1,3 +1,5 @@
+package cars;
+
 import java.util.Objects;
 
 public class Car {
