@@ -1,479 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33f9498d-a5fa-4568-9277-2fb407a61ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../App/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/App.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/bin/pl/sda/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/prog-with-manifest.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/prog.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/src/main/java/pl/sda/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../App/src/test/java/pl/sda/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Camel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsRep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CarRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InMemoryCarRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CarServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/GameForLife.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/out/production/GameForLife/com/company/Board.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/out/production/GameForLife/com/company/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/out/production/GameForLife/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/src/com/company/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/src/com/company/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameForLife/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/GameOver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/GameOver2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/out/production/GameOver2/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/out/production/GameOver2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameOver2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/Gol.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/src/main/java/pl/mmarczewski/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/src/main/java/pl/mmarczewski/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/src/main/java/pl/mmarczewski/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/src/test/java/pl/mmarczewski/BoardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/target/classes/META-INF/Gol.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/target/classes/pl/mmarczewski/Board.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/target/classes/pl/mmarczewski/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/target/classes/pl/mmarczewski/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gol/target/test-classes/pl/mmarczewski/BoardTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/Gra.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/Gra1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Gra1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hangman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Janusze/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Janusze/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Janusze/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Janusze/Janusze.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/Januszex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Januszex/untitled104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/Java1607.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/out/production/Java1607/META-INF/Java1607.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/out/production/Java1607/marczewski/AbstractClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/out/production/Java1607/marczewski/ClasInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/out/production/Java1607/marczewski/Excercise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/out/production/Java1607/marczewski/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/out/production/Java1607/marczewski/StaticClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/src/marczewski/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/src/marczewski/ClasInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/src/marczewski/Excercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/src/marczewski/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607/src/marczewski/StaticClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/Java1607bis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/out/production/Java1607bis/META-INF/Java1607bis.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/out/production/Java1607bis/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/out/production/Java1607bis/main/Samochody.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java1607bis/src/main/Samochody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/Lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/out/production/Lambda/com/company/LambdaDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/out/production/Lambda/com/company/LambdaInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/out/production/Lambda/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/LambdaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/Lambda_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/out/production/Lambda_test/com/company/Inter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/out/production/Lambda_test/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/src/com/company/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambda_test/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdatest/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdatest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdatest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdatest/Lambdatest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdatest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/MyFrstProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/out/production/MyFrstProject/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFrstProject/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewProject" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaItaliana" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/PizzaVer2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/out/production/PizzaVer2/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/out/production/PizzaVer2/com/company/Pizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/out/production/PizzaVer2/com/company/PizzaOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/src/com/company/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PizzaVer2/src/com/company/PizzaOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/Shapes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/DetailsPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/Figura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/FiguraGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/GeometriaInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/Kwadrat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/Okrag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/Rozne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/DetailsPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/FiguraGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/GeometriaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/Kwadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/Okrag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes/src/Rozne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/SimpleApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/app.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/inwokacja.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/pl/mmarczewski/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/pl/mmarczewski/ID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/pl/mmarczewski/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/pl/mmarczewski/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/pl/mmarczewski/Nowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/pl/mmarczewski/NowyOdczyt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/src/main/java/pl/mmarczewskip/Nowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/target/classes/Class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/target/classes/pl/mmarczewski/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/target/classes/pl/mmarczewski/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/target/classes/pl/mmarczewski/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/target/classes/pl/mmarczewski/Nowy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleApp/target/classes/pl/mmarczewskip/Nowy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/Test1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Animals/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/COLORS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Czlowiek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Polak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Pomaranczo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/TASTE_TYPE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Zadanie08062019/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Zadanie08062019/GeometriaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Zadanie08062019/Kwadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/Zadanie08062019/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/interfaces/HRInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test1/src/interfaces/ObywatelUE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/Test3007.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/out/production/Test3007/META-INF/Test3007.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/out/production/Test3007/com/company/Nww.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/out/production/Test3007/com/company/Przedszkolanka.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/out/production/Test3007/com/company/Spoj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/out/production/Test3007/com/company/Wrr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/src/com/company/Nww.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/src/com/company/Przedszkolanka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/src/com/company/Spoj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test3007/src/com/company/Wrr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/TestStream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/out/production/TestStream/META-INF/TestStream.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/out/production/TestStream/com/company/StreamLambda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/out/production/TestStream/pl/marczewski/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/out/production/TestStream/pl/marczewski/TypGen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/src/pl/marczewski/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/src/pl/marczewski/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestStream/src/pl/marczewski/PizzaOrder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TicTacToe/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vacation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vacations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/Wątki.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/out/production/Wątki/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/out/production/Wątki/com/company/Wyjatki.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Wątki/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/Zadanie1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/Zadanie2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/out/production/Zadanie2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Zadanie2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/cars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/out/production/cars/com/company/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/out/production/cars/com/company/CarRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/out/production/cars/com/company/Optionale.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/src/com/company/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/src/com/company/CarRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cars/src/com/company/Optionale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../clonning/PizzaItaliana" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../inny-komputer/javapoz19-programowanie--1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javapoz19programowanie1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mmarczewski" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/out/production/przykl 1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/przykl 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../przykl 1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/out/production/sobota3006/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/sobota3006.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/src/Details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sobota3006/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/out/production/test/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/out/production/test0308/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/out/production/test0308/com/company/Samochody.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/src/com/company/Samochody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test0308/test0308.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/out/production/testujemyENUM/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/out/production/testujemyENUM/com/company/Zegarek.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/src/com/company/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/src/com/company/Zegarek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testujemyENUM/testujemyENUM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/AIPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/GameProgress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/HumanPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/InvalidFieldIndexException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/MoveValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/OPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/TicTacToeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/TicTacToeMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/main/java/XPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/src/test/java/GameProgressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/Board.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/InvalidFieldIndexException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/META-INF/titactoe.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/MoveValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/OPiece.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/Piece.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/TicTacToeMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/target/classes/XPiece.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../titactoe/titactoe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/JanuszUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/ItemGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/JanuszSklep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/JanuszTools.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/JanuszUser1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/ShopItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/UserManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/JanuszUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/ItemGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/JanuszSklep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/JanuszTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/JanuszUser1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/ShopItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    <list default="true" id="33f9498d-a5fa-4568-9277-2fb407a61ee1" name="Default Changelist" comment="ćwiczenie">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hangman" beforeDir="false" afterPath="$PROJECT_DIR$/../Hangman" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PizzaItaliana" beforeDir="false" afterPath="$PROJECT_DIR$/../PizzaItaliana" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vacation" beforeDir="false" afterPath="$PROJECT_DIR$/../Vacation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vacations" beforeDir="false" afterPath="$PROJECT_DIR$/../Vacations" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cars/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javapoz19programowanie1" beforeDir="false" afterPath="$PROJECT_DIR$/../javapoz19programowanie1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mmarczewski" beforeDir="false" afterPath="$PROJECT_DIR$/../mmarczewski" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -498,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Car.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cars/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="e#277#278#0" expanded="true" />
                 <element signature="e#304#305#0" expanded="true" />
@@ -518,10 +56,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CarRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cars/CarRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="119">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -530,10 +68,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CarService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cars/CarService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#124#125#0" expanded="true" />
@@ -557,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/CarServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -565,14 +103,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/InMemoryCarRepository.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cars/InMemoryCarRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="188">
+              <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="13" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
                 <element signature="e#890#891#0" expanded="true" />
                 <element signature="e#917#918#0" expanded="true" />
@@ -670,6 +207,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -720,10 +258,26 @@
       <option name="presentableId" value="Default" />
       <updated>1567068864038</updated>
     </task>
+    <task id="LOCAL-00001" summary="ćwiczenie">
+      <created>1567080544553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567080544553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ćwiczenie">
+      <created>1567080702874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567080702874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -735,9 +289,9 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="2" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32840723" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
@@ -754,28 +308,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ćwiczenie" />
+    <option name="LAST_COMMIT_MESSAGE" value="ćwiczenie" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,20 +334,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CarServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="259">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/CarRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/CarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#124#125#0" expanded="true" />
@@ -825,26 +376,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CarServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/InMemoryCarRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="188">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="13" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/InMemoryCarRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
           </folding>
         </state>
       </provider>
